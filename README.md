@@ -1,5 +1,3 @@
-# Oct25-Assignment-2
-
 # Welcome to My GitHub Profile!
 
 Hi there! I'm Nasukir, a passionate web developer and music enthusiast. Here you'll find a collection of my projects, 
