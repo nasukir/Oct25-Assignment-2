@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
-## Here you'll find a collection of my projects, 
-ranging from web development to creative explorations with piano and guitar.
+## Here you'll find a collection of my projects 
+Ranging from web development to creative explorations with piano and guitar.
 
 ## 🔧 Skills & Tools
 - HTML | CSS | JavaScript
@@ -9,7 +9,7 @@ ranging from web development to creative explorations with piano and guitar.
 - Git | GitHub
 - Music: Piano & Guitar
 
-Contributors:
+## Contributors:
 - Spiderman
 - Batman
 - Superman
