@@ -10,7 +10,6 @@ Ranging from web development to creative explorations with piano and guitar.
 - Music: Piano & Guitar
 
 ## Contributors:
-- Spiderman
-- Batman
-- Superman
-- Wonder Woman
+- Gilbert072
+- amana.cruz
+- Tinker.belle
